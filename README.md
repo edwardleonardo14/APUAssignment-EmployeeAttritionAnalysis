@@ -1,4 +1,4 @@
-# Employee Attrition Analysis
+# APU Assignment - Employee Attrition Analysis
 
 As Part of APU Module, Programming for Data Analysis (PFDA), students is tasked to explore the application of Data Analytics Techniques to the dataset provided.
 
